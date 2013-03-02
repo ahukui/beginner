@@ -1,0 +1,7 @@
+git init			// initialise git
+
+git add .[or file name]		// to add files to git
+
+git commit -m [your message in quotes]		// to save changes to your code
+
+git diff		// for watching difference in source code
